@@ -1,0 +1,8 @@
+#filters {
+  display: flex;
+}
+
+#filters button {
+  margin-right: 20px; /* Increase the margin to add more space between buttons */
+}
+
